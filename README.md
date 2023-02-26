@@ -2,6 +2,7 @@
 Create a simple book tracking app that allows users to see a collection of books with the following
 specifications:
 .Fetch the book collection - can be a static local json or mocked within the code.
+
 Note: The fetch structure should be implemented even if mocked.
 
 .Display the list of books with image, title, author and genre.
